@@ -1,0 +1,1 @@
+This is ecommarce recomendation file based on the ratings and similarity of the products
